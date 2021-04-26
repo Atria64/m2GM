@@ -10,6 +10,7 @@ m2GMは、manabaの課題概要をGitHubMarkdownとして出力するGoogleChrom
  - 小テスト
  - アンケート
  - レポート
+   
  の3つに対応しています。
    
 ### 生成されるリンク例
@@ -37,7 +38,7 @@ e[3].querySelector("td").innerHTML;b="["+c+"]("+a+")\n"+b+"\n"+d+"\n"+e;a=docume
 5. 保存を押して導入完了です。
 
 # 注意事項
-動作の保証などはいたしません。利用は自己責任でお願いします。
+動作保証はしていません。利用は自己責任でお願いします。
 
 # 利用しているもの
  - [Closure Compiler](https://closure-compiler.appspot.com/home)
