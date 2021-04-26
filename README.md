@@ -1,4 +1,4 @@
-# MarkdownUrlGenerator
+# m2GM
 m2GMは、manabaの課題概要をGitHubMarkdownとして出力するGoogleChrome用ブックマークレットです。   
    
 便利だと感じていただければStarをくださると喜びます。
